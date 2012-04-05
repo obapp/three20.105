@@ -1,0 +1,16 @@
+Current Version of Tree: 1.0.5
+
+>$ git branch
+  dev
+  master
+* tag-dev-1.0.5
+
+>$ git tag
+1.0.3
+1.0.3.1
+1.0.3.2
+1.0.4
+1.0.4.1
+1.0.5
+v1.0a1
+v1.0a2
